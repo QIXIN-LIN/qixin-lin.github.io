@@ -17,4 +17,4 @@ You can find my CV here: [Qixin's Curriculum Vitae](../assets/CV-Qixin.pdf)
 
 Beyond academia, I enjoy exploring Chicago's neighborhoods, listening to music, hiking, and couchsurfing globally. I'm always open to new knowledge, experienve and food!
 
-Thank you for taking an interest in my intellectual voyage! Feel free to reach me at qxlin@uchicago.edu :)
+Thank you for taking an interest in my intellectual voyage! Feel free to reach me at [qxlin@uchicago.edu](mailto:qxlin@uchicago.edu) :)
